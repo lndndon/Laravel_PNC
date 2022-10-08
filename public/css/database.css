@@ -1,0 +1,18 @@
+
+#DatabaseStudent{
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size-adjust: inherit;
+    border-radius: 25px;
+    box-shadow: 4px 4px 0px 0px rgba(0,0,0,0.5);
+    padding: 2rem;
+
+}
+thead{
+    font-weight: bold;
+    background-color:  rgba(40, 80, 40, 0.288);
+
+}
+h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

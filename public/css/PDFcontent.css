@@ -1,0 +1,36 @@
+
+#line{
+    border-bottom-style: ridge;
+    font-weight: bold;
+    padding: 5px;
+    }
+    #heading{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 5rem;
+    }
+    #PNCicon{
+        width: 75px;
+        height: 75px;
+    }
+    #containPic{
+        width: 5rem;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+
+    }
+    #pic2x2{
+        width: 100px;
+        height: 110px;
+        border: 2px solid;
+
+    }
+    #pageBreak{
+        page-break-before: always;
+    }
+    #PSA{
+        width: 100%;
+        height: 100%;
+    }

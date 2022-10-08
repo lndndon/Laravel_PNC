@@ -1,0 +1,55 @@
+#header{
+    height: 100%;
+    padding: 15.5rem;
+    text-align: center;
+    border-radius: 10px;
+    background-image: linear-gradient(rgba(255, 255, 255, 0), rgb(255, 255, 255)),url('../images/pncIm.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+
+}
+
+h1{
+    font-size: 2rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+
+}
+h1:hover{
+    font-size: 2.5rem;
+    transition: 0.3s;
+
+}
+
+hr{
+    width: 50%;
+    margin: auto;
+}
+#main{
+    height: 40%;
+    background-color: rgba(255, 255, 255, 0);
+    border-radius: 10px;
+    text-align: center;
+    padding: 5rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#enroll{
+    padding: 5rem;
+    background-color: rgba(40, 80, 40, 0.288);
+    border-radius: 10px;
+
+}
+#let{
+    font-size: 2rem;
+
+}
+#let:hover{
+    font-size: 2.3rem;
+    transition: 0.5s;
+}
+.btn{
+    --bs-btn-color: rgb(40, 80, 40);
+}
+
+
